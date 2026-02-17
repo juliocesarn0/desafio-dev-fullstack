@@ -17,7 +17,6 @@ Este documento descreve **como executar o projeto** e **o que foi implementado**
 - [5. Endpoints implementados](#5-endpoints-implementados)
 - [6. Arquitetura do projeto](#6-arquitetura-do-projeto)
 - [7. Troubleshooting](#7-troubleshooting)
-- [8. Entrega do desafio](#8-entrega-do-desafio)
 
 ---
 
