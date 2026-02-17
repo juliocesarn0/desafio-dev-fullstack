@@ -331,11 +331,3 @@ Normalmente indica banco inacessível.
 
 ---
 
-## 8. Entrega do desafio
-
-Processo:
-
-1. Fazer o fork do repositório do desafio
-2. Criar este `PROJECT.md`
-3. Finalizar a implementação
-4. Abrir Pull Request
